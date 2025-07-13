@@ -30,3 +30,4 @@ classifier.fit(x_train, y_train)
 realized before learning this mlops i need to learn python, pandas python data scince then menhine learning do a project then only i can come to the mlops to deploy and maintain it 
 so back to learning the python this time i have linux installed in wsl in windows trminal and installed git in linux with ssh then an testkey to prove git hub have public and private key loacal mechine connected to the git hub account can push the codes into the github repo installed jupter that is used to run python visualize things very usefull ran a program python in jupter everytime we need jupetr we have to run an command  called jupetr jupyter notebook --no-browser --ip=127.0.0.1  this will give the link and we can open the jupter in the browser 
 push my first python script into git hub repo
+lets make a change to test the bramching part in learning git hub
